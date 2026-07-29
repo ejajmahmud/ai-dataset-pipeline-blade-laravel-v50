@@ -1,0 +1,8 @@
+{
+  "name": "enterprise/ai-dataset-pipeline-blade-laravel-v50",
+  "description": "AI Vector Embedding & Dataset Ingestion - PHP / Laravel & Blade",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  }
+}
